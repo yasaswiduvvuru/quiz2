@@ -11,7 +11,7 @@ I think it's about time to practice coding.
  - you can make the form to sign up for anything you want, be creative
  - make sure to name your inputs appropriately
  - you will check in this file for the cookie created in the next step
-- **register.php** - in this file you will get and the `POST` data from `welcome.php`, process it and store the values to a cookie
+- **register.php** - in this file you will get the `POST` data from `welcome.php`, process it and store the values to a cookie
  - next, if the user were to re-visit `welcome.php` after filling out the form, display the cookie values as "Hi, `first name`, you recently signed up with the email address: `email address`, thank you!"
  - if the user clears cookies, the form should appear again
 - JS isn't required for any of this, but if you want to put something cool in there, I won't stop you.
